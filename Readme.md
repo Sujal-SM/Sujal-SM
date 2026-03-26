@@ -328,7 +328,7 @@ VPC · DNS · Load Balancing
 <h2> 📊 GitHub Stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-SM&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujal-SM&theme=tokyonight"/>
 </div>
 
 ---
