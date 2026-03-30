@@ -117,6 +117,9 @@ I’m passionate about building **production-ready applications, scalable cloud 
 <img src="https://img.shields.io/badge/AWS-AutoScaling-232F3E?style=flat-square&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS-ELB-232F3E?style=flat-square&logo=amazonaws"/>
 
+<!-- ✅ Added Boto3 -->
+<img src="https://img.shields.io/badge/Boto3-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm"/>
@@ -129,6 +132,9 @@ I’m passionate about building **production-ready applications, scalable cloud 
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab"/>
 <img src="https://img.shields.io/badge/ArgoCD-FE4C00?style=flat-square&logo=argo"/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
+
+<!-- ✅ Added Jira -->
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square"/>
