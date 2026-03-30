@@ -40,7 +40,7 @@ I’m passionate about building **production-ready applications, scalable cloud 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
+ <img src="https://img.shields.io/badge/Boto3-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   
   <!-- Jira -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
